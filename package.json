@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGalstyanK622/nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Arman Galstyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGalstyanK622/nodejs/issues"
+  },
+  "homepage": "https://github.com/AGalstyanK622/nodejs#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
